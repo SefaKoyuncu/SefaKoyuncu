@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SefaKoyuncu?tab=repositories](https://github.com/SefaKoyuncu?tab=repositories)
 
-- 💬 Ask me about **Native Android(Java)**
+- 💬 Ask me about **Native Android(Java and Kotlin)**
 
 - 📫 How to reach me **sefa1koyuncu@gmail.com**
 
