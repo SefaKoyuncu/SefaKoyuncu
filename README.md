@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sefa</h1>
 <h3 align="center">Android Developer</h3>
 
-- 🔭 I’m currently working on [https://play.google.com/store/apps/details?id=com.kogo.iroad](https://play.google.com/store/apps/details?id=com.kogo.iroad)
+- 🔭 I’m currently working at Huawei
 
 - 🌱 I’m currently learning **Kotlin**
 
