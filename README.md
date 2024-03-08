@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Huawei
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SefaKoyuncu?tab=repositories](https://github.com/SefaKoyuncu?tab=repositories)
 
