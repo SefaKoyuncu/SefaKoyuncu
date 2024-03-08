@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sefa1koyuncu@gmail.com**
 
-- ⭐️ My favorite project that I developed using the latest technologies: [https://github.com/SefaKoyuncu/Movies]
+- ⭐️ My favorite project that I developed using the latest technologies: **https://github.com/SefaKoyuncu/Movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
